@@ -1,4 +1,4 @@
-const KEY='rainforest_end_v15';
+const KEY='rainforest_end_v16';
 const BASE={marks:{},searches:[],submitted:false};
 let STATE;
 try{STATE=Object.assign({},BASE,JSON.parse(localStorage.getItem(KEY)||'{}'));STATE.marks=Object.assign({},BASE.marks,STATE.marks||{});}catch(e){STATE=structuredClone(BASE)}
