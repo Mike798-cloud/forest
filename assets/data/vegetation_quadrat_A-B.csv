@@ -1,2 +1,7 @@
-id,date,value,note
-1,2026-09-20,ok,public preview
+plot,taxon_code,dbh_cm,height_m,status,observer
+A,AR-014,18.4,11.2,alive,Lin C.
+A,AR-031,9.7,7.1,alive,Ye Z.
+A,AR-008,26.1,14.6,alive,Wang J.
+B,AR-022,13.2,8.9,alive,Lin C.
+B,AR-041,7.8,5.3,alive,Ye Z.
+B,AR-014,20.6,12.0,alive,Wang J.
